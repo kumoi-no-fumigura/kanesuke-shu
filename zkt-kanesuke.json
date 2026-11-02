@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 159,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-kanesuke-0001",
@@ -2270,7 +2273,7 @@
   "blocks": 159,
   "chars": 3691,
   "poems": 159,
-  "yaku": 0,
+  "yaku": 159,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T23:47:46+09:00"
